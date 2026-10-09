@@ -4,6 +4,8 @@ ClientFlow is a small-business CRM SaaS for managing leads, contacts, deals, tas
 
 ## Status
 
+UNDER DEVELOPMENT 
+
 MVP development.
 
 Current phase: Phase 3 — Foundation.
